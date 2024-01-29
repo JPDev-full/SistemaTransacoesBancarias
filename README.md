@@ -8,11 +8,8 @@ O sistema possui as seguintes funcionalidades:
 
 1. Cadastro de novo cliente
 2. Cadastro de nova empresa
-3. Consulta de saldo de empresa
-4. Realização de transações
-5. Consulta de clientes cadastrados
-6. Consulta de empresas cadastradas
-7. Saída do sistema
+3. Realização de transações
+4. Saída do sistema
 
 ## Como usar
 
