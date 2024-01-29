@@ -1,7 +1,9 @@
 #Sistema de Transações Bancárias
+
 Este é um sistema simples de transações bancárias desenvolvido em Java. Ele permite cadastrar clientes e empresas, consultar saldos, realizar depósitos e saques, além de registrar transações entre clientes e empresas.
 
 #Funcionalidades
+
 O sistema possui as seguintes funcionalidades:
 
 Cadastro de novo cliente
@@ -13,6 +15,7 @@ Consulta de empresas cadastradas
 Saída do sistema
 
 #Como usar
+
 Para executar o sistema, siga estas etapas:
 
 Certifique-se de ter o Java JDK instalado em seu sistema.
@@ -25,6 +28,7 @@ Ao executar o programa, você será apresentado a um menu de opções. Escolha a
 Para realizar transações entre clientes e empresas, você precisará cadastrar pelo menos um cliente e uma empresa antes de prosseguir.
 
 #Observações
+
 O sistema valida automaticamente os CPFs e CNPJs fornecidos durante o cadastro.
 As transações de saque serão realizadas apenas se houver saldo suficiente na conta.
 O sistema registra as transações realizadas e atualiza os saldos das empresas envolvidas.
